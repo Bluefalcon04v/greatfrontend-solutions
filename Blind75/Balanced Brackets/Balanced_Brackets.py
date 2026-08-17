@@ -1,4 +1,4 @@
-def isBalancedBrackets(str):
+def isBalancedBrackets(str: List[str]) -> bool:
     stack = []
     pairs = {
         ')': '(',
