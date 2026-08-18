@@ -23,5 +23,15 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 - [Python solution](Blind75/Find%20Duplicates%20in%20Array/Find_Duplicates_in_Array.js)
 
 </details>
+
+<details>
+
+<summary><strong>Find Missing Number in Sequence</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/interviews/study/blind75/questions/algo/array-find-missing-number-in-sequence) | [LeetCode](https://leetcode.com/problems/missing-number/description/)
+- [JavaScript solution](Blind75/Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.js)
+- [Python solution](Blind75/Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.js)
+
+</details>
 </div>
 </details>
