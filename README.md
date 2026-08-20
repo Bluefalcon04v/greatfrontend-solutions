@@ -43,5 +43,24 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 - [Python solution](Blind75/4.%20Maximum%20Product%20in%20Contiguous%20Array/Maximum_Product_in_Contiguous_Array.py)
 
 </details>
+
+<details>
+
+<summary><strong>5. Maximum Sum in Contiguous Array</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-maximum-sum-contiguous) | [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+- [JavaScript solution](Blind75/5.%20Maximum%20Sum%20in%20Contiguous%20Array/Maximum_Sum_in_Contiguous_Array.js)
+- [Python solution](Blind75/5.%20Maximum%20Sum%20in%20Contiguous%20Array/Maximum_Sum_in_Contiguous_Array.py)
+
+</details>
+
+<details>
+
+<summary><strong>6. Most Common Elements</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-most-common-elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Python solution](Blind75/6.%20Most%20Common%20Elements/Most_Common_Elements.py)
+
+</details>
 </div>
 </details>
