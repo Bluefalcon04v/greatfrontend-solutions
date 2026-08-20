@@ -7,30 +7,40 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 <div style="margin-left: 20px;">
 <details>
 
-<summary><strong>Balanced Brackets</strong></summary>
+<summary><strong>1. Balanced Brackets</strong></summary>
 
 - **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-balanced-brackets) | [LeetCode](https://leetcode.com/problems/valid-parentheses/)
-- [JavaScript solution](Blind75/Balanced%20Brackets/Balanced_Brackets.js)
-- [Python solution](Blind75/Balanced%20Brackets/Balanced_Brackets.py)
+- [JavaScript solution](Blind75/1.%20Balanced%20Brackets/Balanced_Brackets.js)
+- [Python solution](Blind75/1.%20Balanced%20Brackets/Balanced_Brackets.py)
 
 </details>
 <details>
 
-<summary><strong>Find Duplicates in Array</strong></summary>
+<summary><strong>2. Find Duplicates in Array</strong></summary>
 
 - **Links:** [GreatFrontEnd](https://www.greatfrontend.com/interviews/study/blind75/questions/algo/array-find-duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/description/)
-- [JavaScript solution](Blind75/Find%20Duplicates%20in%20Array/Find_Duplicates_in_Array.js)
-- [Python solution](Blind75/Find%20Duplicates%20in%20Array/Find_Duplicates_in_Array.js)
+- [JavaScript solution](Blind75/2.%20Find%20Duplicates%20in%20Array/Find_Duplicates_in_Array.js)
+- [Python solution](Blind75/2.%20Find%20Duplicates%20in%20Array/Find_Duplicates_in_Array.py)
 
 </details>
 
 <details>
 
-<summary><strong>Find Missing Number in Sequence</strong></summary>
+<summary><strong>3. Find Missing Number in Sequence</strong></summary>
 
 - **Links:** [GreatFrontEnd](https://www.greatfrontend.com/interviews/study/blind75/questions/algo/array-find-missing-number-in-sequence) | [LeetCode](https://leetcode.com/problems/missing-number/description/)
-- [JavaScript solution](Blind75/Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.js)
-- [Python solution](Blind75/Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.js)
+- [JavaScript solution](Blind75/3.%20Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.js)
+- [Python solution](Blind75/3.%20Find%20Missing%20Number%20in%20Sequence/Find_Missing_Number_in_Sequence.py)
+
+</details>
+
+<details>
+
+<summary><strong>4. Maximum Product in Contiguous Array</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-maximum-product-contiguous) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/)
+- [JavaScript solution](Blind75/4.%20Maximum%20Product%20in%20Contiguous%20Array/Maximum_Product_in_Contiguous_Array.js)
+- [Python solution](Blind75/4.%20Maximum%20Product%20in%20Contiguous%20Array/Maximum_Product_in_Contiguous_Array.py)
 
 </details>
 </div>

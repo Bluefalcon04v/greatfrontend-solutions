@@ -12,7 +12,22 @@ def maxProductSubArray(numbers: list[int]) -> int:
 
 # Optimal Approach
 def maxProductSubArray(numbers: list[int]) -> int:
-    return -1
+    result = numbers[0]
+    max_product = numbers[0]
+    min_product = numbers[0]
+    
+    for i in range(1, len(numbers)):
+        curr = numbers[i]
+        
+        if curr < 0: 
+            min_product, max_product = max_product , min_product
+        
+        min_product = min(min_product * curr, curr)
+        max_product = max(max_product * curr, curr)
+        
+        result = max(max_product, result)
+            
+    return result
 
 inputs = [[1,2,-3,5,1], [9], [1,2,0,-1,8,-4]]
 for input in inputs:
