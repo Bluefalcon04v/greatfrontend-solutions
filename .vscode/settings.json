@@ -1,3 +1,6 @@
 {
-  "terminal.integrated.gpuAcceleration": "off"
+  "terminal.integrated.gpuAcceleration": "off",
+  "cSpell.words": [
+    "heapify"
+  ]
 }

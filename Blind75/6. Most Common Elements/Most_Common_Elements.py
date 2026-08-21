@@ -8,7 +8,7 @@ def mostCommonElements(numbers: list[int], k: int) -> list[int]:
             count_map[number] = 1
     
     result = []
-    sorted_array =  sorted(count_map.items(), key=lambda item:item[1], reverse=True)[:k]
+    sorted_array = sorted(count_map.items(), key=lambda item:item[1], reverse=True)[:k]
     
     for i in range(k):
         result.append(sorted_array[i][0])
