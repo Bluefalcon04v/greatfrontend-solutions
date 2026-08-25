@@ -109,8 +109,6 @@ class myMinPriorityQueue{
     }
 }
 
-
-
 const testCases = [
     {"numbers": [4,4,4,6,6,5,5,5,9], "k": 2},
     {"numbers": [7,7,7,8,8,9,9,9], "k": 3},
