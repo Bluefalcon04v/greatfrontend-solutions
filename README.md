@@ -86,10 +86,29 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 
 <details>
 
+<summary><strong>Find Element in Rotated Array</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-rotated-find) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [JavaScript solution](Blind75/Find%20Element%20in%20Rotated%20Array/Find_Element_in_Rotated_Array.js)
+
+</details>
+
+<details>
+
 <summary><strong>Smallest element in rotated sorted array</strong></summary>
 
 - **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-smallest-in-rotated) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [JavaScript solution](Blind75/Smallest%20element%20in%20rotated%20sorted%20array/Smallest_element_in_rotated_sorted_array.js)
+
+</details>
+
+<details>
+
+<summary><strong>Binary Search Tree Kth Smallest Element</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/binary-search-tree-kth-smallest) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [JavaScript solution](Blind75/Binary%20Search%20Tree%20Kth%20Smallest%20Element/Binary_Search_Tree_Kth_Smallest_Element.js)
+- [Python solution](Blind75/Binary%20Search%20Tree%20Kth%20Smallest%20Element/Binary_Search_Tree_Kth_Smallest_Element.py)
 
 </details>
 </div>
