@@ -83,5 +83,14 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 - [Python solution](Blind75/End%20of%20Array%20Reachable/End_of_Array_Reachable.py)
 
 </details>
+
+<details>
+
+<summary><strong>Smallest element in rotated sorted array</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/array-smallest-in-rotated) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [JavaScript solution](Blind75/Smallest%20element%20in%20rotated%20sorted%20array/Smallest_element_in_rotated_sorted_array.js)
+
+</details>
 </div>
 </details>

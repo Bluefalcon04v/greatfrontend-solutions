@@ -31,6 +31,7 @@ const testCases = [
     {numbers: [0,1,2,3,4], target: 2},
     {numbers: [2,3,4,0,1], target: 0},
     {numbers: [4], target: 2},
+    {numbers: [-1,2,4,-9,-2], target:2}
 ]
 for (const {numbers, target} of testCases){
     console.log(findInRotatedArray(numbers, target))
