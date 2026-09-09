@@ -1,4 +1,4 @@
-def findDuplicates(numbers: List[int]) -> bool:
+def findDuplicates(numbers: list[int]) -> bool:
     seen = set()
     
     for number in numbers:
