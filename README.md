@@ -111,5 +111,34 @@ Solutions are grouped by collection and problem. Expand a collection below to br
 - [Python solution](Blind75/Binary%20Search%20Tree%20Kth%20Smallest%20Element/Binary_Search_Tree_Kth_Smallest_Element.py)
 
 </details>
+
+<details>
+
+<summary><strong>Binary Search Tree Lowest Common Ancestor</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/binary-search-tree-lowest-common-ancestor) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [JavaScript solution](Blind75/Binary%20Search%20Tree%20Lowest%20Common%20Ancestor/Binary_Search_Tree_Lowest_Common_Ancestor.js)
+
+</details>
+
+<details>
+
+<summary><strong>Validate Binary Search Tree</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/binary-search-tree-validate) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
+- [JavaScript solution](Blind75/Validate%20Binary%20Search%20Tree/Validate_Binary_Search_Tree.js)
+- [Python solution](Blind75/Validate%20Binary%20Search%20Tree/Validate_Binary_Search_Tree.py)
+
+</details>
+
+<details>
+
+<summary><strong>Binary Tree Equal</strong></summary>
+
+- **Links:** [GreatFrontEnd](https://www.greatfrontend.com/questions/algo/binary-tree-equal) | [LeetCode](https://leetcode.com/problems/same-tree/)
+- [JavaScript solution](Blind75/Binary%20Tree%20Equal/Binary_Tree_Equal.js)
+- [Python solution](Blind75/Binary%20Tree%20Equal/Binary_Tree_Equal.py)
+
+</details>
 </div>
 </details>
